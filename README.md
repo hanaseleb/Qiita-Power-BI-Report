@@ -4,7 +4,7 @@
 
 # 利用条件
 
-利用する方は、以下のQiita記事にいいねをしてください
+利用する方は、以下のQiita記事にいいねをしてください😊
 
 https://qiita.com/akihiro_suto/items/92a787c4b41d210bab57
 
